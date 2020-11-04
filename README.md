@@ -10,7 +10,6 @@ This is a simple chat built with react, nodejs, socket.io
 
 ```bash
 cd server/
-npm start
 ```
 
 ```properties
