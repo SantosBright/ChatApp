@@ -1,0 +1,23 @@
+{
+    "name": "socket_chat_app",
+    "version": "1.0.0",
+    "description": "A simple chat app that uses socket.io",
+    "main": "src/app.js",
+    "scripts": {
+        "start": "nodemon ./src/app"
+    },
+    "keywords": [
+        "chatApp",
+        "sockets",
+        "node",
+        "api"
+    ],
+    "author": "Santos BRight",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "nodemon": "^2.0.6",
+        "socket.io": "^2.3.0"
+    }
+}
