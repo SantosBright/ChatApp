@@ -4,12 +4,13 @@ This is a simple chat built with react, nodejs, socket.io
 
 ![demo](demo.gif)
 
-## To get started
+## Getting started
 
 #### Runing the sever
 
 ```bash
-cd /server
+cd server/
+npm start
 ```
 
 ```properties
@@ -19,7 +20,7 @@ npm start
 #### Runing the client
 
 ```bash
-cd /client
+cd client/
 ```
 
 ```properties
